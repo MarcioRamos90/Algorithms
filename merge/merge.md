@@ -1,3 +1,5 @@
+< [home](../README.md)
+
 # merging sort
 
 ## Mergigng
@@ -91,3 +93,8 @@ Begin
     endif
 End
 ```
+
+
+- [C implemention](/merge/in_c/merge.c)
+- [Python implemention](/merge/in_python/merge.py)
+- [Swift implemention](/merge/in_swift/merge.swift)

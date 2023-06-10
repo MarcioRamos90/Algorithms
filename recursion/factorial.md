@@ -1,3 +1,5 @@
+< [home](../README.md)
+
 # Recursion
 
 wen a function calls itself it is called a recursion.
@@ -115,3 +117,8 @@ Begin
 End
 ```
 
+### Implementations
+
+- [C implemention](/recursion/factorial_in_c/main.c)
+- [Python implemention](/recursion/factorial_in_python/main.py)
+- [Swift implemention](/recursion/factorial_in_swift/main.swift)
