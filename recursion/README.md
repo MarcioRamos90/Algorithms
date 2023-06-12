@@ -55,5 +55,7 @@ void hello(){
 }
 ```
 
+# Recursive Algorithms
+
 - [factorial algorithm](factorial/README.md)
 - [fibonacci algorithm](fibonacci/README.md)
