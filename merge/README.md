@@ -95,6 +95,6 @@ End
 ```
 
 
-- [C implemention](/merge/in_c/merge.c)
-- [Python implemention](/merge/in_python/merge.py)
-- [Swift implemention](/merge/in_swift/merge.swift)
+- [C implemention](in_c/merge.c)
+- [Python implemention](in_python/merge.py)
+- [Swift implemention](in_swift/merge.swift)
