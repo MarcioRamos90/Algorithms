@@ -56,3 +56,4 @@ void hello(){
 ```
 
 - [factorial algorithm](factorial/README.md)
+- [fibonacci algorithm](fibonacci/README.md)

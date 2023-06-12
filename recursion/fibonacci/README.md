@@ -47,3 +47,5 @@ Begin
         Return Call Fibo(n-1) + Call Fibo(n-2)
 End
 ```
+
+- [C implemention](in_c/main.c)
